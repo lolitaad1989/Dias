@@ -1,3 +1,5 @@
 a fruits
 b vegetables
 c biscuits
+d cookies
+e milk
